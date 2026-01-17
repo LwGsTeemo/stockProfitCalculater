@@ -5,5 +5,8 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
+    "lxml>=6.0.2",
     "pandas>=2.3.3",
+    "twstock>=1.4.0",
+    "xlrd>=2.0.2",
 ]
